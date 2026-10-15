@@ -4,8 +4,6 @@ A performance-oriented real-time facial recognition and computer vision system b
 
 The project is designed to explore the intersection of computer vision, machine learning inference, concurrent systems, and computer networking. Rather than implementing facial recognition as a single sequential loop, the long-term goal is to build a modular real-time perception pipeline with concurrent video processing, embedding-based recognition, performance instrumentation, and networked recognition services.
 
-> Status: Active development
-
 ---
 
 ## Overview
